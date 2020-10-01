@@ -20,7 +20,10 @@ matplotlib
 5. I will Use 70% of the data for training and the remainder for testing
 6. Scale my data
 7. Reshape the features
-8. Build my LSTM m
+8. Build my LSTM model
+9. Compile
+10. Train model
+11. Run performance analytics.
 
 
 ## Questions to be answered:
