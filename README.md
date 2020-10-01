@@ -52,3 +52,8 @@ The sentiment value tracks values better over time. the model starts March 2019 
 **Which window size works best for the model?**
 
 As previously stated a window size of 5 works best.
+
+## Plots
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
