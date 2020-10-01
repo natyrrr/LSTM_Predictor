@@ -55,5 +55,5 @@ As previously stated a window size of 5 works best.
 
 ## Plots
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/natyrrr/LSTM_Predictor/blob/master/FNG.png)
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
