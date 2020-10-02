@@ -55,6 +55,10 @@ The sentiment value tracks values better over time. the model starts March 2019 
 As previously stated a window size of 5 works best.
 
 ## Plots
+## USING SENTIMENT
 
 ![Alt text](https://github.com/natyrrr/LSTM_Predictor/blob/master/FNG.png)
+
+## USING CLOSING PRICES
+
 ![Alt text](https://github.com/natyrrr/LSTM_Predictor/blob/master/closing.png)
